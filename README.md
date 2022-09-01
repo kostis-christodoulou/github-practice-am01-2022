@@ -36,4 +36,5 @@
 |07|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
 |08|Amelia Przybyl | 13 | ameliaprzybyl |<https://github.com/ameliaprzybyl/mywebsite>       | <>  | 2022-09-01 |
 |09|Jason Huang | 9 | jas0nh |<https://github.com/jas0nh/mywebsite>       | <https://jas0nhuang.netlify.app>  | 2022-09-01 |
+|10|Jean-F Peters  | 6| jpeters2023 |<https://github.com/jpeters2023/mywebsite2022| <https://jpetersmam2023.netlify.app/>  | 2022-09-01  |
 
