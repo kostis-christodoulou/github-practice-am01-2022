@@ -32,3 +32,5 @@
 |03|Drishti Goyal    | 6  | drishtigoyal13| <https://github.com/drishtigoyal13/my_website> | <https://kostis-portfolio13.netlify.app/> | 2022-09-01 |
 |04|Nithish Kumar Akula | 4 | nithishkumarakula | <https://github.com/nithishkumarakula/portfolio_website> | <https://nithishkumarakula.netlify.app/> | 2022-09-01 |
 |05|Fangchen Wang |9| ferencWANG | https://github.com/ferencWANG/AM-01-2022fall       |2022-09-01
+|06|Vivian van Oosten  | 12 | vivianvanoosten |<https://github.com/VivianvanOosten/my_website>       | <https://vivianvanoosten.netlify.app/>  | 2022-09-01  |
+
