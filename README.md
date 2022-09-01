@@ -1,4 +1,4 @@
-# Personal Portfolio Assignment
+# Personal Portfolio Assignment 6
 
 **Assignment Instructions**
 
@@ -28,4 +28,10 @@
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |01|Drishti Hoskote  | 13 | drishti1607 |<https://github.com/drishti1607/my_website>       | <https://drishti-hoskote.netlify.app/>  | 2022-08-31  |
-|02|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
+|02|Daria Gherghelas  | 13 | dariagherghelas2601 |<https://github.com/dariagherghelas2601/mywebsite22>       | <>  | 2022-09-01  |
+|03|Drishti Goyal    | 6  | drishtigoyal13| <https://github.com/drishtigoyal13/my_website> | <https://kostis-portfolio13.netlify.app/> | 2022-09-01 |
+|04|Nithish Kumar Akula | 4 | nithishkumarakula | <https://github.com/nithishkumarakula/portfolio_website> | <https://nithishkumarakula.netlify.app/> | 2022-09-01 |
+|05|Fangchen Wang |9| ferencWANG | https://github.com/ferencWANG/AM-01-2022fall       |2022-09-01
+|06|Vivian van Oosten  | 12 | vivianvanoosten |<https://github.com/VivianvanOosten/my_website>       | <https://vivianvanoosten.netlify.app/>  | 2022-09-01  |
+|07|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
+
