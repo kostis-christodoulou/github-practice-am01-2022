@@ -27,3 +27,4 @@
 |No | Name | Study Group | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+Jefin Joseph, 2, jefin-joseph, https://github.com/jefin-joseph/my-website, https://jefin-joseph-portfolio.netlify.app/
