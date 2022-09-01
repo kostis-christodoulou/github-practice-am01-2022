@@ -44,4 +44,5 @@
 |15|Heng Jian Shun  | 1 | jianshun-heng  |<https://github.com/jianshun-heng/jianshun-heng-website>  | <https://website-jianshun-heng.netlify.app/> | 2022-09-01 |
 |16|Liyang Zhang   | 11     | frexzhang |<https://github.com/frexzhang/Liyang-website.git>   |<https://liyang-zhang-portfolio.netlify.app>        |2022-09-01 |
 |17|Nick Chen   | 11     | NickChennn |<https://github.com/NickChennn/myrepo.git>   |<https://nickchennn.netlify.app/>        |2021-09-01 |
+|18| Juan Sanchez-Blanco | 3 | juansbg | <https://github.com/juansbg/stats_website_22> | <https://juansbg.netlify.app/> | 2022-09-01 |
 
