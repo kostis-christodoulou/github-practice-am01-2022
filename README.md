@@ -37,4 +37,7 @@
 |08|Amelia Przybyl | 13 | ameliaprzybyl |<https://github.com/ameliaprzybyl/mywebsite>       | <>  | 2022-09-01 |
 |09|Jason Huang | 9 | jas0nh |<https://github.com/jas0nh/mywebsite>       | <https://jas0nhuang.netlify.app>  | 2022-09-01 |
 |10|Gabriel Calandri | 2 | GabrielCalandri22 |<https://github.com/GabrielCalandri22/mywesbiteGC.git>       | <>  | 2022-09-01 |
-|11|Zezhou Tang| 6 | Zezhou-Tang | <https://github.com/Zezhou-Tang/my-website> | <https://zezhou-tang.netlify.app/> | 2022-09-01|
+|11|Jean-F Peters  | 6| jpeters2023 |<https://github.com/jpeters2023/mywebsite2022| <https://jpetersmam2023.netlify.app/>  | 2022-09-01  |
+|12|Jefin Joseph | 2 | jefin-joseph |<https://github.com/jefin-joseph/my-website>       | <https://jefin-joseph-portfolio.netlify.app>  | 2022-09-01 |
+|13|Jinying Luo | 4 | JinyingLuo |<https://github.com/JinyingLuo/mywebsite>       | <https://rowling.netlify.app>  | 2022-09-01 |
+|14|Zezhou Tang| 6 | Zezhou-Tang | <https://github.com/Zezhou-Tang/my-website> | <https://zezhou-tang.netlify.app/> | 2022-09-01|
