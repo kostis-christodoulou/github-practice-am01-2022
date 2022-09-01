@@ -1,4 +1,4 @@
-# Personal Portfolio Assignment 6
+# Personal Portfolio Assignment
 
 **Assignment Instructions**
 
