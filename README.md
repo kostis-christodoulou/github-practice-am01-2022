@@ -50,3 +50,4 @@
 |21|Mingqi Yin |10| Qiuke-Studies | <https://github.com/Qiuke-Studies/am01_website> | <https://mingqi-portfolio.netlify.app> | 2022-09-01 |
 |22|Tobias Delago   | 11     | tobias-delago |<https://github.com/tobias-delago/my_website> |<https://tobias-delagos-portfolio.netlify.app/>        |2022-09-01 |
 |23|Aneeka Agarwal   | 9     | AneekaAg |<https://github.com/AneekaAg/mywebsiteproject> |<https://aneeka-agarwal.netlify.app/>        |2022-09-01 |
+|24|Ishaan Khetan | 3 | ishaankhetan | <https://github.com/Cishaankhetan/Applied-Stats-Website> | <https://ishaankhetan-portfolio.netlify.app> | 2022-09-01 |
