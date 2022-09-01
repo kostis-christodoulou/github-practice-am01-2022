@@ -28,3 +28,4 @@
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |01|Drishti Hoskote  | 13 | drishti1607 |<https://github.com/drishti1607/my_website>       | <https://drishti-hoskote.netlify.app/>  | 2022-08-31  |
+|02|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
