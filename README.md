@@ -51,3 +51,4 @@
 |22|Tobias Delago   | 11     | tobias-delago |<https://github.com/tobias-delago/my_website> |<https://tobias-delagos-portfolio.netlify.app/>        |2022-09-01 |
 |23|Aneeka Agarwal   | 9     | AneekaAg |<https://github.com/AneekaAg/mywebsiteproject> |<https://aneeka-agarwal.netlify.app/>        |2022-09-01 |
 |24|Ishaan Khetan | 3 | ishaankhetan | <https://github.com/ishaankhetan/Applied-Stats-Website> | <https://ishaankhetan-portfolio.netlify.app> | 2022-09-01 |
+|25| Mehak Khanna | 11 | khanna-mehak | https://github.com/khanna-mehak/my-website | https://khanna-mehak.netlify.app/ | 2022-09-02 |
