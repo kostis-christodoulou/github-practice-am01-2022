@@ -53,3 +53,5 @@
 |24|Ishaan Khetan | 3 | ishaankhetan | <https://github.com/ishaankhetan/Applied-Stats-Website> | <https://ishaankhetan-portfolio.netlify.app> | 2022-09-01 |
 |25| Mehak Khanna | 11 | khanna-mehak | https://github.com/khanna-mehak/my-website | https://khanna-mehak.netlify.app/ | 2022-09-02 |
 |26| Laura Gehring | 4 | lauragehr | <https://github.com/lauragehr/laurarepo1> | <https://lauragehr.netlify.app> | 2022-09-02 |
+|27|Emilia Moskala  | 3 | emmoskala |<https://github.com/emmoskala/mywebsite>       | <https://emmoskala.netlify.app>  | 2022-09-02  |
+
