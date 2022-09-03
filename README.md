@@ -31,7 +31,7 @@
 |02|Daria Gherghelas  | 13 | dariagherghelas2601 |<https://github.com/dariagherghelas2601/mywebsite22>       | <>  | 2022-09-01  |
 |03|Drishti Goyal    | 6  | drishtigoyal13| <https://github.com/drishtigoyal13/my_website> | <https://kostis-portfolio13.netlify.app/> | 2022-09-01 |
 |04|Nithish Kumar Akula | 4 | nithishkumarakula | <https://github.com/nithishkumarakula/portfolio_website> | <https://nithishkumarakula.netlify.app/> | 2022-09-01 |
-|05|Fangchen Wang |9| ferencWANG | https://github.com/ferencWANG/AM-01-2022fall       |2022-09-01
+|05|Fangchen Wang |9| ferencWang | <https://github.com/ferencWANG/my_website> | <https://fangchen-portfolio.netlify.app/> | 2022-09-03
 |06|Vivian van Oosten  | 12 | vivianvanoosten |<https://github.com/VivianvanOosten/my_website>       | <https://vivianvanoosten.netlify.app/>  | 2022-09-01  |
 |07|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
 |08|Amelia Przybyl | 13 | ameliaprzybyl |<https://github.com/ameliaprzybyl/mywebsite>       | <>  | 2022-09-01 |
