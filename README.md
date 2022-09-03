@@ -58,3 +58,5 @@
 |29|Yiliu Wang  | 6 | YiliuWang | <https://github.com/YiliuWang> | <https://yiliuwang.netlify.app/> | 2022-09-03 |
 |30|Yiwei Zheng  | 3 | sylvie-zheng | <https://github.com/sylvie-zheng/mywebsite22> |  <https://joyful-druid-982735.netlify.app/> | 2022-09-02  |
 |31|Kavya Mahesh | 14 | Kavya-Mahesh | <https://github.com/Kavya-Mahesh/my_website> | <https://kavyamahesh-portfolio.netlify.app/> | 2022-09-03 |
+|32| Disha Javur | 2 | Djavur | <https://github.com/DJavur/my_website.git> |  <https://disha-javur-portfolio.netlify.app/> | 2022-09-03 | 
+
