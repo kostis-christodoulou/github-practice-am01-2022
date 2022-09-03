@@ -28,4 +28,35 @@
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |01|Drishti Hoskote  | 13 | drishti1607 |<https://github.com/drishti1607/my_website>       | <https://drishti-hoskote.netlify.app/>  | 2022-08-31  |
-|02|Fangchen Wang |9| ferencWang | <https://github.com/ferencWANG/my_website> | <https://fangchen-portfolio.netlify.app/> | 2022-09-03
+|02|Daria Gherghelas  | 13 | dariagherghelas2601 |<https://github.com/dariagherghelas2601/mywebsite22>       | <>  | 2022-09-01  |
+|03|Drishti Goyal    | 6  | drishtigoyal13| <https://github.com/drishtigoyal13/my_website> | <https://kostis-portfolio13.netlify.app/> | 2022-09-01 |
+|04|Nithish Kumar Akula | 4 | nithishkumarakula | <https://github.com/nithishkumarakula/portfolio_website> | <https://nithishkumarakula.netlify.app/> | 2022-09-01 |
+|05|Fangchen Wang |9| ferencWang | <https://github.com/ferencWANG/my_website> | <https://fangchen-portfolio.netlify.app/> | 2022-09-03
+|06|Vivian van Oosten  | 12 | vivianvanoosten |<https://github.com/VivianvanOosten/my_website>       | <https://vivianvanoosten.netlify.app/>  | 2022-09-01  |
+|07|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
+|08|Amelia Przybyl | 13 | ameliaprzybyl |<https://github.com/ameliaprzybyl/mywebsite>       | <>  | 2022-09-01 |
+|09|Jason Huang | 9 | jas0nh |<https://github.com/jas0nh/mywebsite>       | <https://jas0nhuang.netlify.app>  | 2022-09-01 |
+|10|Gabriel Calandri | 2 | GabrielCalandri22 |<https://github.com/GabrielCalandri22/mywesbiteGC.git>       | <https://gabrielcalandri-portfolio.netlify.app/>  | 2022-09-01 |
+|11|Jean-F Peters  | 6| jpeters2023 |<https://github.com/jpeters2023/mywebsite2022| <https://jpetersmam2023.netlify.app/>  | 2022-09-01  |
+|12|Tianyi Zhang  | 8| Tzhang |<https://github.com/Timsssssssss/my_website22| <https://tzhangmam23.netlify.app/>  | 2022-09-01  |
+|13|Joy Shi  | 4 | JoyyyShi  |<https://github.com/JoyyyShi/MyZone>  | <https://joyyyshi.netlify.app/> | 2022-09-01 |
+|14| Marta Wnek |1| marta-wnek |https://github.com/marta-wnek/my_website| 
+|15|Heng Jian Shun  | 1 | jianshun-heng  |<https://github.com/jianshun-heng/jianshun-heng-website>  | <https://website-jianshun-heng.netlify.app/> | 2022-09-01 |
+|16|Liyang Zhang   | 11     | frexzhang |<https://github.com/frexzhang/Liyang-website.git>   |<https://liyang-zhang-portfolio.netlify.app>        |2022-09-01 |
+|17|Nick Chen   | 11     | NickChennn |<https://github.com/NickChennn/myrepo.git>   |<https://nickchennn.netlify.app/>        |2021-09-01 |
+|18| Juan Sanchez-Blanco | 3 | juansbg | <https://github.com/juansbg/stats_website_22> | <https://juansbg.netlify.app/> | 2022-09-01 |
+|19|Christoph Plachutta |8| ChrisPlta | <https://github.com/ChrisPlta/AM01_website22_CP> | <https://a-chrisp-portfolio.netlify.app> | 2022-09-01 |
+|20|Neha Dagade |10| nehadagade | <https://github.com/nehadagade/mywebsite> |  | 2022-09-01 |
+|21|Mingqi Yin |10| Qiuke-Studies | <https://github.com/Qiuke-Studies/am01_website> | <https://mingqi-portfolio.netlify.app> | 2022-09-01 |
+|22|Tobias Delago   | 11     | tobias-delago |<https://github.com/tobias-delago/my_website> |<https://tobias-delagos-portfolio.netlify.app/>        |2022-09-01 |
+|23|Aneeka Agarwal   | 9     | AneekaAg |<https://github.com/AneekaAg/mywebsiteproject> |<https://aneeka-agarwal.netlify.app/>        |2022-09-01 |
+|24|Ishaan Khetan | 3 | ishaankhetan | <https://github.com/ishaankhetan/Applied-Stats-Website> | <https://ishaankhetan-portfolio.netlify.app> | 2022-09-01 |
+|25| Mehak Khanna | 11 | khanna-mehak | https://github.com/khanna-mehak/my-website | https://khanna-mehak.netlify.app/ | 2022-09-02 |
+|26| Laura Gehring | 4 | lauragehr | <https://github.com/lauragehr/laurarepo1> | <https://lauragehr.netlify.app> | 2022-09-02 |
+|27|Emilia Moskala  | 3 | emmoskala |<https://github.com/emmoskala/mywebsite>       | <https://emmoskala.netlify.app>  | 2022-09-02  |
+|28|Mingyu Dai  | 13 | iris-mingyudai | <https://github.com/iris-mingyudai/iris_web> |  <https://irisportfolio.netlify.app/> | 2022-09-02  |
+|29|Yiliu Wang  | 6 | YiliuWang | <https://github.com/YiliuWang> | <https://yiliuwang.netlify.app/> | 2022-09-03 |
+|30|Yiwei Zheng  | 3 | sylvie-zheng | <https://github.com/sylvie-zheng/mywebsite22> |  <https://sylvie-zheng.netlify.app/> | 2022-09-02  |
+|31|Kavya Mahesh | 14 | Kavya-Mahesh | <https://github.com/Kavya-Mahesh/my_website> | <https://kavyamahesh-portfolio.netlify.app/> | 2022-09-03 |
+|32| Disha Javur | 2 | Djavur | <https://github.com/DJavur/my_website.git> |  <https://disha-javur-portfolio.netlify.app/> | 2022-09-03 | 
+|33| Kathlyn Lee | 3 | katleew | <https://github.com/katleew/my_website> | <https://kathlynlee.netlify.app/> | 2022-09-03 |
