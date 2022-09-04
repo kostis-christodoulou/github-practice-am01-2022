@@ -61,3 +61,4 @@
 |32| Disha Javur | 2 | Djavur | <https://github.com/DJavur/my_website.git> |  <https://disha-javur-portfolio.netlify.app/> | 2022-09-03 | 
 |33| Kathlyn Lee | 3 | katleew | <https://github.com/katleew/my_website> | <https://kathlynlee.netlify.app/> | 2022-09-03 |
 |34|Yung-Chieh Hsu | 8 | Yung-Chieh Hsu |<https://github.com/yhsu-mam2023/mywebsite22> |<https://main--yhsumam2023.netlify.app/> |2022-09-03 |
+|35| Wendy Li | 8 | kaiyuan-li-0920 | <https://github.com/kaiyuan-li-0920/mywebsite> | <https://kaiyuanli.netlify.app//> | 2022-09-04 |
