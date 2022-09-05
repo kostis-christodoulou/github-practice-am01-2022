@@ -46,7 +46,7 @@
 |17|Nick Chen   | 11     | NickChennn |<https://github.com/NickChennn/myrepo.git>   |<https://nickchennn.netlify.app/>        |2021-09-01 |
 |18| Juan Sanchez-Blanco | 3 | juansbg | <https://github.com/juansbg/stats_website_22> | <https://juansbg.netlify.app/> | 2022-09-01 |
 |19|Christoph Plachutta |8| ChrisPlta | <https://github.com/ChrisPlta/AM01_website22_CP> | <https://a-chrisp-portfolio.netlify.app> | 2022-09-01 |
-|20|Neha Dagade |10| nehadagade | <https://github.com/nehadagade/mywebsite> |  | 2022-09-01 |
+|20|Neha Dagade |10| nehadagade | <https://github.com/nehadagade/mywebsite> | <https://nehadagade.netlify.app> | 2022-09-01 |
 |21|Mingqi Yin |10| Qiuke-Studies | <https://github.com/Qiuke-Studies/am01_website> | <https://mingqi-portfolio.netlify.app> | 2022-09-01 |
 |22|Tobias Delago   | 11     | tobias-delago |<https://github.com/tobias-delago/my_website> |<https://tobias-delagos-portfolio.netlify.app/>        |2022-09-01 |
 |23|Aneeka Agarwal   | 9     | AneekaAg |<https://github.com/AneekaAg/mywebsiteproject> |<https://aneeka-agarwal.netlify.app/>        |2022-09-01 |
