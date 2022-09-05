@@ -69,3 +69,5 @@
 |40| Rufei Wang | 07 | wrufei | <https://github.com/wrufei/My-Website-2022.git> | <https://wrufei0525.netlify.app/> | 2022-09-05 |
 |41| Jefin Joseph | 02 | jefin-joseph | <https://github.com/jefin-joseph> | <https://jefin-joseph-portfolio.netlify.app/> | 2022-09-05 |
 |42| Sonakshi Gupta | 06 | Sonakshi1999 | <https://github.com/Sonakshi1999/MyWebsite2022> | <https://sonakshigupta.netlify.app/> | 2022-09-05 |
+|43| Vanshika Bhatia | 09 | vanshika1804 | <https://github.com/vanshika1804/vanshika-1804> | <https://vanshika-1804.netlify.app/> | 2022-09-05 |
+
