@@ -36,7 +36,7 @@
 |07|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
 |08|Amelia Przybyl | 13 | ameliaprzybyl |<https://github.com/ameliaprzybyl/mywebsite>       | <>  | 2022-09-01 |
 |09|Jason Huang | 9 | jas0nh |<https://github.com/jas0nh/mywebsite>       | <https://jas0nhuang.netlify.app>  | 2022-09-01 |
-|10|Gabriel Calandri | 2 | GabrielCalandri22 |<https://github.com/GabrielCalandri22/mywesbiteGC.git>       | <https://gabrielcalandri-portfolio.netlify.app/>  | 2022-09-01 |
+|10|Gabriel Calandri | 2 | GabrielCalandri22 |<https://github.com/GabrielCalandri22/mywesbiteGC.git>       | <https://gabrielcalandri-portfolio.netlify.app>  | 2022-09-01 |
 |11|Jean-F Peters  | 6| jpeters2023 |<https://github.com/jpeters2023/mywebsite2022| <https://jpetersmam2023.netlify.app/>  | 2022-09-01  |
 |12|Tianyi Zhang  | 8| Tzhang |<https://github.com/Timsssssssss/my_website22| <https://tzhangmam23.netlify.app/>  | 2022-09-01  |
 |13|Joy Shi  | 4 | JoyyyShi  |<https://github.com/JoyyyShi/MyZone>  | <https://joyyyshi.netlify.app/> | 2022-09-01 |
@@ -63,4 +63,7 @@
 |34|Yung-Chieh Hsu | 8 | Yung-Chieh Hsu |<https://github.com/yhsu-mam2023/mywebsite22> |<https://main--yhsumam2023.netlify.app/> |2022-09-03 |
 |35| Wendy Li | 8 | kaiyuan-li-0920 | <https://github.com/kaiyuan-li-0920/mywebsite> | <https://kaiyuanli.netlify.app//> | 2022-09-04 |
 |36| Dhruvi Mundra | 01 | dhruvimundra | <https://github.com/dhruvimundra/mywebsite22> | <https://dhruvimundra.netlify.app> | 2022-09-04 |
-|37| Vani Duggal| 01 | vaniduggal22 | https://github.com/vaniduggal22/vani_website.git | https://vaniduggal.netlify.app| 2022-09-05 |
+|37| Manon Pillot | 11 | mpillot98 | <https://github.com/mpillot98/mywebsite22.git> | <https://manonpillot.netlify.app/> | 2022-09-05 |
+|38| Niklas Gaertner | 04 | nvgaertner | <https://github.com/nvgaertner/mywebsite22> | <https://niklas-gaertner-1999.netlify.app> | 2022-09-04 |
+|39| Vani Duggal| 01 | vaniduggal22 | https://github.com/vaniduggal22/vani_website.git | https://vaniduggal.netlify.app| 2022-09-05 |
+
