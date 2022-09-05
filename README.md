@@ -71,3 +71,4 @@
 |42| Sonakshi Gupta | 06 | Sonakshi1999 | <https://github.com/Sonakshi1999/MyWebsite2022> | <https://sonakshigupta.netlify.app/> | 2022-09-05 |
 |43| Vanshika Bhatia | 09 | vanshika1804 | <https://github.com/vanshika1804/vanshika-1804> | <https://vanshika-1804.netlify.app/> | 2022-09-05 |
 |44| Xueying Liu | 1 | xyliu1999 | <https://github.com/xyliu1999/my_website22> | <https://xueying-liu-portfolio.netlify.app/> | 2022-09-05 |
+|45| Zhuoran Cao | 2 | zhuoran-cao | <https://github.com/zhuoran-cao/my_website22.git> | <https://zhuorancao.netlify.app> | 2022-09-04 |
