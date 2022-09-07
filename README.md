@@ -75,3 +75,4 @@
 |46| Zezhou Tang | 6| Tang-Zezhou | <https://github.com/Zezhou-Tang/my-website> | <https://zezhou-tang.netlify.app> | 2022-09-04 |
 |47| Wybe Harms | 6| wybeharms | https://github.com/wybeharms/my_website2 | https://wybeharms-portfolio.netlify.app/ | 2022-09-04 |
 |48| Zitong Hu | 7| zitonghu | [https://github.com/zitonghu/my_website | https://zitonghu.netlify.app/ | 2022-09-07 |
+|49| Jomal Jochan | 10 | jomaljochan | <https://github.com/jomaljochan> | <https://jomal-portfolio.netlify.app/> | 2022-09-07 |
