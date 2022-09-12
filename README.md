@@ -77,3 +77,4 @@
 |48| Zitong Hu | 7| zitonghu | [https://github.com/zitonghu/my_website | https://zitonghu.netlify.app/ | 2022-09-07 |
 |49| Jomal Jochan | 10 | jomaljochan | <https://github.com/jomaljochan> | <https://jomal-portfolio.netlify.app/> | 2022-09-07 |
 |50| Jingyi Fang | 03 | jfang219 | <https://github.com/jfang219/mywebsite> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
+|51| Alex Scheuer | 01 | scheuer98 | <https://github.com/scheuer98/lbs_appliedstatistics> | <https://alexscheuer.netlify.app/> | 2022-09-12 |
