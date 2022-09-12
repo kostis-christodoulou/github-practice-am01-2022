@@ -78,3 +78,4 @@
 |49| Jomal Jochan | 10 | jomaljochan | <https://github.com/jomaljochan> | <https://jomal-portfolio.netlify.app/> | 2022-09-07 |
 |50| Jingyi Fang | 03 | jfang219 | <https://github.com/jfang219/mywebsite> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
 |51| Piotr Rudniak| 10 | Prudniak | <(https://github.com/Prudniak/My_website_PR)> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
+|52| Gian Marco Serra | 10 | gianmarcoserra | <https://github.com/gianma747/gianmarcoserrawebR> | <https://gianmarcoserra.netlify.app> | 2022-09-12 |
