@@ -86,3 +86,5 @@
 |57| Yuqiao Leng | 14 | andrewlengg | <https://github.com/andrewlengg/my_website> | <https://yuqiao-andrew-leng-web.netlify.app/> | 2022-09-12 |
 |58| Joël Merki | 14 | JoelMerki | <https://github.com/JoelMerki/websitejm> | <https://joelmerki-portfolio.netlify.app/> | 2022-09-12 |
 |59| Shivant Maharaj | 12 | shivant-maharaj | <https://github.com/shivant-maharaj/mywebsite22> | <https://shivant-maharaj.netlify.app> | 2022-09-12 | 
+|60| Thirat Wongwaisayawan | 07 | Ponthirat |https://github.com/Ponthirat/mywebsite22.git|https://thirat-wongwaisayawan-portfolio.netlify.app| 2022-09-12 |
+
