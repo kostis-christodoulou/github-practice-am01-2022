@@ -77,3 +77,4 @@
 |48| Zitong Hu | 7| zitonghu | [https://github.com/zitonghu/my_website | https://zitonghu.netlify.app/ | 2022-09-07 |
 |49| Jomal Jochan | 10 | jomaljochan | <https://github.com/jomaljochan> | <https://jomal-portfolio.netlify.app/> | 2022-09-07 |
 |50| Jingyi Fang | 03 | jfang219 | <https://github.com/jfang219/mywebsite> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
+|51| Madalina Dumitrescu | 08 | madalinad28 | <https://github.com/madalinad28/my-webiste.git> | <htttps://madalinadumitrescu.netlify.app>| 2022-09-12 |
