@@ -45,14 +45,14 @@
 |16|Liyang Zhang   | 11     | frexzhang |<https://github.com/frexzhang/Liyang-website.git>   |<https://liyang-zhang-portfolio.netlify.app>        |2022-09-01 |
 |17|Nick Chen   | 11     | NickChennn |<https://github.com/NickChennn/myrepo.git>   |<https://nickchennn.netlify.app/>        |2021-09-01 |
 |18| Juan Sanchez-Blanco | 3 | juansbg | <https://github.com/juansbg/stats_website_22> | <https://juansbg.netlify.app/> | 2022-09-01 |
-|19|Christoph Plachutta |8| ChrisPlta | <https://github.com/ChrisPlta/AM01_website22_CP> | <https://a-chrisp-portfolio.netlify.app> | 2022-09-01 |
+|19|Christoph Plachutta |8| ChrisPlta | <https://github.com/ChrisPlta/AM01_website22_CP> | <https://mychrispportfolio.netlify.app> | 2022-09-01 |
 |20|Neha Dagade |10| nehadagade | <https://github.com/nehadagade/mywebsite> | <https://nehadagade.netlify.app> | 2022-09-01 |
 |21|Mingqi Yin |10| Qiuke-Studies | <https://github.com/Qiuke-Studies/am01_website> | <https://mingqi-portfolio.netlify.app> | 2022-09-01 |
 |22|Tobias Delago   | 11     | tobias-delago |<https://github.com/tobias-delago/my_website> |<https://tobias-delagos-portfolio.netlify.app/>        |2022-09-01 |
 |23|Aneeka Agarwal   | 9     | AneekaAg |<https://github.com/AneekaAg/mywebsiteproject> |<https://aneeka-agarwal.netlify.app/>        |2022-09-01 |
 |24|Ishaan Khetan | 3 | ishaankhetan | <https://github.com/ishaankhetan/Applied-Stats-Website> | <https://ishaankhetan-portfolio.netlify.app> | 2022-09-01 |
 |25| Mehak Khanna | 11 | khanna-mehak | https://github.com/khanna-mehak/my-website | https://khanna-mehak.netlify.app/ | 2022-09-02 |
-|26| Laura Gehring | 4 | lauragehr | <https://github.com/lauragehr/laurarepo1> | <https://lauragehr.netlify.app> | 2022-09-02 |
+|26| Laura Gehring | 4 | lauragehr | <https://github.com/lauragehr/LauraG_webiste> | <https://lauragwebsite.netlify.app/> | 2022-09-02 |
 |27|Emilia Moskala  | 3 | emmoskala |<https://github.com/emmoskala/mywebsite>       | <https://emmoskala.netlify.app>  | 2022-09-02  |
 |28|Mingyu Dai  | 13 | iris-mingyudai | <https://github.com/iris-mingyudai/iris_web> |  <https://irisportfolio.netlify.app/> | 2022-09-02  |
 |29|Yiliu Wang  | 6 | YiliuWang | <https://github.com/YiliuWang> | <https://yiliuwang.netlify.app/> | 2022-09-03 |
@@ -77,4 +77,15 @@
 |48| Zitong Hu | 7| zitonghu | [https://github.com/zitonghu/my_website | https://zitonghu.netlify.app/ | 2022-09-07 |
 |49| Jomal Jochan | 10 | jomaljochan | <https://github.com/jomaljochan> | <https://jomal-portfolio.netlify.app/> | 2022-09-07 |
 |50| Jingyi Fang | 03 | jfang219 | <https://github.com/jfang219/mywebsite> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
-|51| Madalina Dumitrescu | 08 | madalinad28 | <https://github.com/madalinad28/my-webiste.git> | <htttps://madalinadumitrescu.netlify.app>| 2022-09-12 |
+|51| Piotr Rudniak| 10 | Prudniak | <(https://github.com/Prudniak/My_website_PR)> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
+|52| Gian Marco Serra | 10 | gianmarcoserra | <https://github.com/gianma747/gianmarcoserrawebR> | <https://gianmarcoserra.netlify.app> | 2022-09-12 |
+|53| Naman Dhingra | 04 | dhingranaman | <https://github.com/dhingranaman/my_website.git> | <https://naman007-portfolio.netlify.app/> | 2022-09-12|
+|54| Sihan Lu | 05 | SihanLu2023 | <https://github.com/SihanLu2023/mywebsite> | <https://sihan-lu.netlify.app/> | 2022-09-12 |
+|55| Sneha Ramteke | 05 | SNEHARAMTEKE | <https://github.com/SNEHARAMTEKE/my_website_2> | <https://sneharamteke.netlify.app> | 2022-09-12 |
+|56| Alex Scheuer | 01 | scheuer98 | <https://github.com/scheuer98/lbs_appliedstatistics> | <https://alexscheuer.netlify.app/> | 2022-09-12 |
+|57| Yuqiao Leng | 14 | andrewlengg | <https://github.com/andrewlengg/my_website> | <https://yuqiao-andrew-leng-web.netlify.app/> | 2022-09-12 |
+|58| Joël Merki | 14 | JoelMerki | <https://github.com/JoelMerki/websitejm> | <https://joelmerki-portfolio.netlify.app/> | 2022-09-12 |
+|59| Shivant Maharaj | 12 | shivant-maharaj | <https://github.com/shivant-maharaj/mywebsite22> | <https://shivant-maharaj.netlify.app> | 2022-09-12 | 
+|60| Thirat Wongwaisayawan | 07 | Ponthirat |https://github.com/Ponthirat/mywebsite22.git|https://thirat-wongwaisayawan-portfolio.netlify.app| 2022-09-12 |
+|61| Madalina Dumitrescu | 08 | madalinad28 | <https://github.com/madalinad28/my-webiste.git> | <htttps://madalinadumitrescu.netlify.app>| 2022-09-12 |
+
