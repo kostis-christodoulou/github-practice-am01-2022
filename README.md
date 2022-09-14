@@ -91,3 +91,5 @@
 |62| Misha Aggarwal | 08 | mishaaggarwal15 | <https://github.com/mishaaggarwal15/My_website.git> | <https://misha-aggarwal.netlify.app/> | 2022-09-12 |
 |63| Jaelyn Shi | 12 | Jaelyn1003 | <https://github.com/Jaelyn1003/My-Website> | <https://jaelyn-shi.netlify.app/> | 2022-09-12 |
 |64| Alexandru-Victor Botorog | 2 | AlexBoto458 | <https://github.com/AlexBoto458/my_website.git> | <https://alexandru-botorog-portfolio.netlify.app> | 2022-09-13 |
+|65| Lejla Kajevic | 007 | lejla24 | <https://github.com/lejla24> | <https://lejlasportfolio.netlify.app> | 2022-09-14 |
+|66| Siddharth Gulati | 007 | SiddharthGulati98 | <https://github.com/SiddharthGulati98> | <https://siddharth-gulati.netlify.app> | 2022-09-14 |
