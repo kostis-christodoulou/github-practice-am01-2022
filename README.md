@@ -52,7 +52,7 @@
 |23|Aneeka Agarwal   | 9     | AneekaAg |<https://github.com/AneekaAg/mywebsiteproject> |<https://aneeka-agarwal.netlify.app/>        |2022-09-01 |
 |24|Ishaan Khetan | 3 | ishaankhetan | <https://github.com/ishaankhetan/Applied-Stats-Website> | <https://ishaankhetan-portfolio.netlify.app> | 2022-09-01 |
 |25| Mehak Khanna | 11 | khanna-mehak | https://github.com/khanna-mehak/my-website | https://khanna-mehak.netlify.app/ | 2022-09-02 |
-|26| Laura Gehring | 4 | lauragehr | <https://github.com/lauragehr/LauraG_webiste> | <https://lauragwebsite.netlify.app/> | 2022-09-02 |
+|26| Laura Gehring | 4 | lauragehr | <https://github.com/lauragehr/mywebsite.git> | <https://lauragehring.netlify.app/> | 2022-09-02 |
 |27|Emilia Moskala  | 3 | emmoskala |<https://github.com/emmoskala/mywebsite>       | <https://emmoskala.netlify.app>  | 2022-09-02  |
 |28| Mingyu Dai  | 13 | iris-mingyudai | <https://github.com/iris-mingyudai/universe> |  <https://iris-universe.netlify.app/> | 2022-09-02  |
 |29|Yiliu Wang  | 6 | YiliuWang | <https://github.com/YiliuWang> | <https://yiliuwang.netlify.app/> | 2022-09-03 |
