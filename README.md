@@ -28,7 +28,7 @@
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |01|Drishti Hoskote  | 13 | drishti1607 |<https://github.com/drishti1607/my_website>       | <https://drishti-hoskote.netlify.app/>  | 2022-08-31  |
-|02|Daria Gherghelas  | 13 | dariagherghelas2601 |<https://github.com/dariagherghelas2601/mywebsite22>       | <>  | 2022-09-01  |
+|02|Daria Gherghelas  | 5 | dariagherghelas2601 |<https://github.com/dariagherghelas2601/mywebsite22>       | <https://dariagherghelas.netlify.app/>  | 2022-09-01  |
 |03|Drishti Goyal    | 6  | drishtigoyal13| <https://github.com/drishtigoyal13/my_website> | <https://drishti-goyal.netlify.app/> | 2022-09-01 |
 |04|Nithish Kumar Akula | 4 | nithishkumarakula | <https://github.com/nithishkumarakula/portfolio_website> | <https://nithishkumarakula.netlify.app/> | 2022-09-01 |
 |05|Fangchen Wang |9| ferencWang | <https://github.com/ferencWANG/my_website> | <https://fangchen-portfolio.netlify.app/> | 2022-09-03
