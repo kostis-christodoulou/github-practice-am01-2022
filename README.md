@@ -33,7 +33,7 @@
 |04|Nithish Kumar Akula | 4 | nithishkumarakula | <https://github.com/nithishkumarakula/portfolio_website> | <https://nithishkumarakula.netlify.app/> | 2022-09-01 |
 |05|Fangchen Wang |9| ferencWang | <https://github.com/ferencWANG/my_website> | <https://fangchen-portfolio.netlify.app/> | 2022-09-03
 |06|Vivian van Oosten  | 12 | vivianvanoosten |<https://github.com/VivianvanOosten/my_website>       | <https://vivianvanoosten.netlify.app/>  | 2022-09-01  |
-|07|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |   | 2022-08-31  |
+|07|Sharon Xu  | 1 | SharonXuuu |<https://github.com/SharonXuuu/My_website_0901>       |  <https://sharonxu-portfolio.netlify.app/> | 2022-09-01  |
 |08|Amelia Przybyl | 13 | ameliaprzybyl |<https://github.com/ameliaprzybyl/mywebsite>       | <>  | 2022-09-01 |
 |09|Jason Huang | 9 | jas0nh |<https://github.com/jas0nh/mywebsite>       | <https://jas0nhuang.netlify.app>  | 2022-09-01 |
 |10|Gabriel Calandri | 2 | GabrielCalandri22 |<https://github.com/GabrielCalandri22/mywesbiteGC.git>       | <https://gabrielcalandriwebsite.netlify.app>  | 2022-09-10 |
