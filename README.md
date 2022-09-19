@@ -77,7 +77,7 @@
 |48| Zitong Hu | 7| zitonghu | [https://github.com/zitonghu/my_website | https://zitonghu.netlify.app/ | 2022-09-07 |
 |49| Jomal Jochan | 10 | jomaljochan | <https://github.com/jomaljochan> | <https://jomal-portfolio.netlify.app/> | 2022-09-07 |
 |50| Jingyi Fang | 03 | jfang219 | <https://github.com/jfang219/mywebsite> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
-|51| Piotr Rudniak| 10 | Prudniak | <(https://github.com/Prudniak/My_website_PR)> | <https://jingyi-fang.netlify.app/> | 2022-09-10 |
+|51| Piotr Rudniak| 10 | Prudniak | <https://github.com/Prudniak/My_website_PR> | <https://prudniak.netlify.app/> | 2022-09-12 |
 |52| Gian Marco Serra | 10 | gianmarcoserra | <https://github.com/gianma747/gianmarcoserrawebR> | <https://gianmarcoserra.netlify.app> | 2022-09-12 |
 |53| Naman Dhingra | 04 | dhingranaman | <https://github.com/dhingranaman/my_website.git> | <https://naman007-portfolio.netlify.app/> | 2022-09-12|
 |54| Sihan Lu | 05 | SihanLu2023 | <https://github.com/SihanLu2023/mywebsite> | <https://sihan-lu.netlify.app/> | 2022-09-12 |
