@@ -96,4 +96,5 @@
 |67| Jinying Luo | 04 | JinyingLuo | <https://github.com/JinyingLuo/mywebsite.git> | <https://rowling.netlify.app/> | 2022-09-15 |
 |68| Alberic Teisseire | 09 | Albebe00 | <https://github.com/Albebe00/mywebsite_albebe.git> | <https://albebe-portfolio.netlify.app/> | 2022-09-15 |
 |69| Anastasia Fu | 12 | anaffu | <https://github.com/anaffu/my_website.git> | <https://anastasiafu-portfolio.netlify.app/> | 2022-09-16 |
-|70| Lucia Cai | 10 | luciacai | <https://github.com/luciacai/mywebsite22.git)> | <https://lucia-portfolio.netlify.app/> | 2022-09-19 |
+|70| Wei Wu | 05 | AdrianWooo | <https://github.com/AdrianWooo/mywebsite> | <https://wei-adrian-woo.netlify.app/> | 2022-09-20 |
+|71| Lucia Cai | 10 | luciacai | <https://github.com/luciacai/mywebsite22.git)> | <https://lucia-portfolio.netlify.app/> | 2022-09-19 |
