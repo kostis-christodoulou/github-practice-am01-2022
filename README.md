@@ -40,7 +40,7 @@
 |11|Jean-F Peters  | 6| jpeters2023 |<https://github.com/jpeters2023/mywebsite2022| <https://jpetersmam2023.netlify.app/>  | 2022-09-01  |
 |12|Tianyi Zhang  | 8| Tzhang |<https://github.com/Timsssssssss/my_website22| <https://tzhangmam23.netlify.app/>  | 2022-09-01  |
 |13|Joy Shi  | 4 | JoyyyShi  |<https://github.com/JoyyyShi/MyZone>  | <https://joyyyshi.netlify.app/> | 2022-09-01 |
-|14| Marta Wnek |1| marta-wnek |https://github.com/marta-wnek/my_website| <https://marta-wnek.netlify.app/> | 2022-09-20 |
+|14| Marta Wnek |1| marta-wnek |https://github.com/marta-wnek/marta-portfolio.git| <https://marta-official-portfolio.netlify.app/> | 2022-09-20 |
 |15|Heng Jian Shun  | 1 | jianshun-heng  |<https://github.com/jianshun-heng/jianshun-official.git>  | <https://jianshun-official.netlify.app/> | 2022-09-01 |
 |16|Liyang Zhang   | 11     | frexzhang |<https://github.com/frexzhang/Liyang-website.git>   |<https://liyang-zhang-portfolio.netlify.app>        |2022-09-01 |
 |17|Nick Chen   | 11     | NickChennn |<https://github.com/NickChennn/myrepo.git>   |<https://nickchennn.netlify.app/>        |2021-09-01 |
