@@ -62,7 +62,7 @@
 |33| Kathlyn Lee | 3 | katleew | <https://github.com/katleew/my_website_yaml> | <https://kathlynlee.netlify.app/> | 2022-09-03 |
 |34|Yung-Chieh Hsu | 8 | Yung-Chieh Hsu |<https://github.com/yhsu-mam2023/mywebsite22> |<https://main--yhsumam2023.netlify.app/> |2022-09-03 |
 |35| Wendy Li | 8 | kaiyuan-li-0920 | <https://github.com/kaiyuan-li-0920/mywebsite> | <https://kaiyuanli.netlify.app//> | 2022-09-04 |
-|36| Dhruvi Mundra | 01 | dhruvimundra | <https://github.com/dhruvimundra/mywebsite22> | <https://dhruvimundra.netlify.app> | 2022-09-04 |
+|36| Dhruvi Mundra | 01 | dhruvimundra | <https://github.com/dhruvimundra/websiteMAM> | <https://dhruvi-mundra.netlify.app> | 2022-09-20 |
 |37| Manon Pillot | 11 | mpillot98 | <https://github.com/mpillot98/mywebsite22.git> | <https://manonpillot.netlify.app/> | 2022-09-05 |
 |38| Niklas Gaertner | 04 | nvgaertner | <https://github.com/nvgaertner/mywebsite22> | <https://niklas-gaertner-1999.netlify.app> | 2022-09-04 |
 |39| Vani Duggal| 01 | vaniduggal22 | https://github.com/vaniduggal22/vani_website22 | <https://vaniduggal22.netlify.app/>| 2022-09-05 |
