@@ -99,3 +99,4 @@
 |70| Wei Wu | 05 | AdrianWooo | <https://github.com/AdrianWooo/mywebsite> | <https://wei-adrian-woo.netlify.app/> | 2022-09-20 |
 |71| Lucia Cai | 10 | luciacai | <https://github.com/luciacai/mywebsite22.git)> | <https://lucia-portfolio.netlify.app/> | 2022-09-19 |
 |72| Arvind Sridhar | 05 | arvindsridhar99 | <https://github.com/arvindsridhar99/my_website.git> | <https://arvindsridhar.netlify.app//> | 2022-09-20 |
+|73| Samarth Sharma | 12 | eric-cartman2300 | <https://github.com/eric-cartman2300/mywebsite23/my_website.git> | <https://samarth23.netlify.app> | 2022-09-20 |
