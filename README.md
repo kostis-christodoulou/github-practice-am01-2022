@@ -98,4 +98,4 @@
 |69| Anastasia Fu | 12 | anaffu | <https://github.com/anaffu/my_website.git> | <https://anastasiafu-portfolio.netlify.app/> | 2022-09-16 |
 |70| Wei Wu | 05 | AdrianWooo | <https://github.com/AdrianWooo/mywebsite> | <https://wei-adrian-woo.netlify.app/> | 2022-09-20 |
 |71| Lucia Cai | 10 | luciacai | <https://github.com/luciacai/mywebsite22.git)> | <https://lucia-portfolio.netlify.app/> | 2022-09-19 |
-|72| Arvind Sridhar | 05 | arvindsridhar99 | <https://github.com/arvindsridhar99/my_website.git> | <https://arvindsridhar.netlify.app//> | 2022-09-20 |
+|72| Arvind Sridhar | 05 | arvindsridhar99 | <https://github.com/arvindsridhar99/my_website.git> | <https://arvindsridhar.netlify.app//> | 2022-09-20 |73| Emma Clark | 14 | emmaclark15 | <https://github.com/emmaclark15/test> | <https://emmaclark.netlify.app/> | 2022-09-20 
