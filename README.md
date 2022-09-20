@@ -65,7 +65,7 @@
 |36| Dhruvi Mundra | 01 | dhruvimundra | <https://github.com/dhruvimundra/mywebsite22> | <https://dhruvimundra.netlify.app> | 2022-09-04 |
 |37| Manon Pillot | 11 | mpillot98 | <https://github.com/mpillot98/mywebsite22.git> | <https://manonpillot.netlify.app/> | 2022-09-05 |
 |38| Niklas Gaertner | 04 | nvgaertner | <https://github.com/nvgaertner/mywebsite22> | <https://niklas-gaertner-1999.netlify.app> | 2022-09-04 |
-|39| Vani Duggal| 01 | vaniduggal22 | https://github.com/vaniduggal22/vani_website.git | <https://vaniduggal22.netlify.app/>| 2022-09-05 |
+|39| Vani Duggal| 01 | vaniduggal22 | https://github.com/vaniduggal22/vani_website22 | <https://vaniduggal22.netlify.app/>| 2022-09-05 |
 |40| Rufei Wang | 07 | wrufei | <https://github.com/wrufei/My-Website-2022.git> | <https://wrufei0525.netlify.app/> | 2022-09-05 |
 |41| Jefin Joseph | 02 | jefin-joseph | <https://github.com/jefin-joseph> | <https://jefin-joseph-portfolio.netlify.app/> | 2022-09-05 |
 |42| Sonakshi Gupta | 06 | Sonakshi1999 | <https://github.com/Sonakshi1999/MyWebsite2022> | <https://sonakshigupta.netlify.app/> | 2022-09-05 |
