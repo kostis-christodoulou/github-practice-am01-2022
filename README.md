@@ -40,7 +40,7 @@
 |11|Jean-F Peters  | 6| jpeters2023 |<https://github.com/jpeters2023/mywebsite2022| <https://jpetersmam2023.netlify.app/>  | 2022-09-01  |
 |12|Tianyi Zhang  | 8| Tzhang |<https://github.com/Timsssssssss/my_website22| <https://tzhangmam23.netlify.app/>  | 2022-09-01  |
 |13|Joy Shi  | 4 | JoyyyShi  |<https://github.com/JoyyyShi/MyZone>  | <https://joyyyshi.netlify.app/> | 2022-09-01 |
-|14| Marta Wnek |1| marta-wnek |https://github.com/marta-wnek/my_website| <https://marta-wnek.netlify.app/> | 2022-09-20 |
+|14| Marta Wnek |1| marta-wnek |https://github.com/marta-wnek/marta-portfolio.git| <https://marta-official-portfolio.netlify.app/> | 2022-09-20 |
 |15|Heng Jian Shun  | 1 | jianshun-heng  |<https://github.com/jianshun-heng/jianshun-official.git>  | <https://jianshun-official.netlify.app/> | 2022-09-01 |
 |16|Liyang Zhang   | 11     | frexzhang |<https://github.com/frexzhang/Liyang-website.git>   |<https://liyang-zhang-portfolio.netlify.app>        |2022-09-01 |
 |17|Nick Chen   | 11     | NickChennn |<https://github.com/NickChennn/myrepo.git>   |<https://nickchennn.netlify.app/>        |2021-09-01 |
@@ -99,4 +99,7 @@
 |70| Wei Wu | 05 | AdrianWooo | <https://github.com/AdrianWooo/mywebsite> | <https://wei-adrian-woo.netlify.app/> | 2022-09-20 |
 |71| Lucia Cai | 10 | luciacai | <https://github.com/luciacai/mywebsite22.git)> | <https://lucia-portfolio.netlify.app/> | 2022-09-19 |
 |72| Arvind Sridhar | 05 | arvindsridhar99 | <https://github.com/arvindsridhar99/my_website.git> | <https://arvindsridhar.netlify.app//> | 2022-09-20 |
-|73| Samarth Sharma | 12 | eric-cartman2300 | <https://github.com/eric-cartman2300/mywebsite23/my_website.git> | <https://samarth23.netlify.app> | 2022-09-20 |
+|73| Francesco Nicolì |007| francesconicoli00 | <https://github.com/francesconicoli00/Francesco_repository_1> | <https://francesconicoli00.netlify.app/> | 2022-09-20 |
+|74| San Kashyap | 13 | sankash7 | <https://github.com/sankash7/website> | <https://sankash.netlify.app/> | 2022-09-20
+|75| Alice Chen | 14 | alicechen87101 | <https://github.com/alicechen87101/my_website.git> | <https://alicechen-portfolio.netlify.app/> | 2022-09-20 |
+|76| Samarth Sharma | 12 | eric-cartman2300 | <https://github.com/eric-cartman2300/mywebsite23/my_website.git> | <https://samarth23.netlify.app> | 2022-09-20 |
