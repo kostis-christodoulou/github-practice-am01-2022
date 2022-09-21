@@ -99,5 +99,6 @@
 |70| Wei Wu | 05 | AdrianWooo | <https://github.com/AdrianWooo/mywebsite> | <https://wei-adrian-woo.netlify.app/> | 2022-09-20 |
 |71| Lucia Cai | 10 | luciacai | <https://github.com/luciacai/mywebsite22.git)> | <https://lucia-portfolio.netlify.app/> | 2022-09-19 |
 |72| Arvind Sridhar | 05 | arvindsridhar99 | <https://github.com/arvindsridhar99/my_website.git> | <https://arvindsridhar.netlify.app//> | 2022-09-20 |
-|73| Alice Chen | 14 | alicechen87101 | <https://github.com/alicechen87101/my_website.git> | <https://alicechen-portfolio.netlify.app/> | 2022-09-20 |
-
+|73| Francesco Nicolì |007| francesconicoli00 | <https://github.com/francesconicoli00/Francesco_repository_1> | <https://francesconicoli00.netlify.app/> | 2022-09-20 |
+|74| San Kashyap | 13 | sankash7 | <https://github.com/sankash7/website> | <https://sankash.netlify.app/> | 2022-09-20
+|75| Alice Chen | 14 | alicechen87101 | <https://github.com/alicechen87101/my_website.git> | <https://alicechen-portfolio.netlify.app/> | 2022-09-20 |
