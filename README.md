@@ -105,3 +105,4 @@
 |76| Samarth Sharma | 12 | eric-cartman2300 | <https://github.com/eric-cartman2300/mywebsite23/my_website.git> | <https://samarth23.netlify.app> | 2022-09-20 |
 |77| Emma Clark | 14 | emmaclark15 | <https://github.com/emmaclark15/test> | https://emmaclark.netlify.app/> | 2022-09-21 |
 |78| Shashvat Somany | 04 | ssomany12 | <https://github.com/ssomany12/mywebsite> | <https://ssomany12.netlify.app/> | 2023-06-10 |
+|79| Claudia Cerezo Carrasco | 15 | claudiacerezocarrasco | <https://github.com/claudiacerezo/my_website> | <https://claudiacerezo-portfolio.netlify.app/> | 2023-06-15 |
