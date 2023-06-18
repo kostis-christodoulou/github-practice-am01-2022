@@ -106,3 +106,4 @@
 |77| Emma Clark | 14 | emmaclark15 | <https://github.com/emmaclark15/test> | https://emmaclark.netlify.app/> | 2022-09-21 |
 |78| Shashvat Somany | 04 | ssomany12 | <https://github.com/ssomany12/mywebsite> | <https://ssomany12.netlify.app/> | 2023-06-10 |
 |79| Claudia Cerezo Carrasco | 15 | claudiacerezocarrasco | <https://github.com/claudiacerezo/my_website> | <https://claudiacerezo-portfolio.netlify.app/> | 2023-06-15 |
+|79| Gaia Di Emanuele | 15 | GaiaDiEmanuele | <[https://github.com/claudiacerezo/my_website](https://github.com/GaiaDiEmanuele/My-website---Gaia-Di-Emanuele-.git)> | <[https://claudiacerezo-portfolio.netlify.app/](https://gaia-portfolio.netlify.app/)> | 2023-06-18 |
